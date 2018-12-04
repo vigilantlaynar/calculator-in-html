@@ -1,0 +1,65 @@
+body
+{
+margin:auto
+width:80%
+}
+#semester
+    {
+        background-color: #c7ff33;
+        color: black;
+        padding: 3px;
+            border:1px solid red
+    }
+    .marks
+    {
+        text-align: center;
+        border: 2px solid#fff;
+        font-family: consolasn
+        background-color: #cdcdcd;
+        color: brown;
+        border-collapse: collapse;
+        
+    }
+    .box{
+        background-color:#ededed;
+        border: 1px solid blue;
+        width:300px;
+        overflow: auto
+    }
+#expenses{
+ text-align:right;                                                                                              
+ }
+div {
+color:blue;
+background-color:#ececec;
+}
+div p,table{
+color:blue;
+margin-left:0;
+}
+p    {
+margin-left:100px;
+font-family:jokerman;
+font-size:19px;
+border-top:16px solid orange;
+border-bottom:16px solid purple;
+border-left:16px solid black;
+border-right:16px solid lightgreen;
+padding:120px;
+background-color:#FF0000;
+color:yellow;
+width:800px;
+text-align:justify;
+}
+img{
+border:2px solid blue;
+border-radius:25px;
+margin-left:25px;
+
+}
+ul{
+  list-style-type:none;
+  color:green;
+  border:2px solid blues;
+  font-size:150%;
+}
